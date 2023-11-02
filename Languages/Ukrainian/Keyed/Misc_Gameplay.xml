@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Vehicle stats -->
+  <VVE_AccelerationSundayDriver>Пришвидшення: повільний водій</VVE_AccelerationSundayDriver>
+  <VVE_AccelerationHigh>Пришвидшення: швидкий водій/VVE_AccelerationHigh>
+  <VVE_MaxSpeed_Increased>Максимальна швидкість: increased precept</VVE_MaxSpeed_Increased>
+  <VVE_HandbrakeDealsDamage>Примусове гальмування пошкоджує шини</VVE_HandbrakeDealsDamage>
+  <VVE_StatsReport_AccelerationRate>Швидкість прискорення: {0} Поточна швидкість: {1} к/с</VVE_StatsReport_AccelerationRate>
+  <VVE_HandbrakeWarning>{VEHICLE_nameDef} не матиме достатньо місця для гальмування і буде змушений скористатися примусовим гальмом. Це призведе до пошкодження шин.</VVE_HandbrakeWarning>
+  <VVE_Open>Відкрито</VVE_Open>
+  <VVE_Close>Закрити</VVE_Close>
+  <VVE_OpenDescription>Позначте гаражні ворота, які потрібно відчинити.</VVE_OpenDescription>
+  <VVE_CloseDescription>Позначте гаражні ворота, які потрібно зачинити.</VVE_CloseDescription>
+  <VVE_OpenDescription_AutoDoor>Відчинити ворота гаража.</VVE_OpenDescription_AutoDoor>
+  <VVE_CloseDescription_AutoDoor>Закрити ворота гаража.</VVE_CloseDescription_AutoDoor>
+  <VVE_VehicleObstructingClosingGarage>Автомобіль блокує гараж.</VVE_VehicleObstructingClosingGarage>
+
+  <VVE_VehicleTier>Рівень</VVE_VehicleTier>
+  <VVE_Tier0>Рівень 0</VVE_Tier0>
+  <VVE_Tier1>Рівень 1</VVE_Tier1>
+  <VVE_Tier2>Рівень 2</VVE_Tier2>
+  <VVE_Tier3>Рівень 3</VVE_Tier3>
+  <VVE_Tier4>Рівень 3</VVE_Tier4>
+
+
+  <!-- Stats Descriptions -->
+
+  <VVE_Tier0Desc>Tier 0 vehicles are the most basic and easiest to access. They don't require resources to be constructed, or research project to be researched, or neither.</VVE_Tier0Desc>
+  <VVE_Tier1Desc>Tier 1 vehicles require a basic research project and a low resource cost in order to be constructed. They are inefficient, not ideal, have a lot of drawbacks, but they are cheap and available early in the game.</VVE_Tier1Desc>
+  <VVE_Tier2Desc>Tier 2 vehicles are locked behind more specialised research projects and require resources that are only available later in the game. Tier 2 is considered to be the 'baseline' of all vehicles.</VVE_Tier2Desc>
+  <VVE_Tier3Desc>Tier 3 vehicles are only obtainable if a specific condition is met - for example, they are first found in their wrecked form and restored. They require late game resources and generally serve a very specific purpose.</VVE_Tier3Desc>
+  <VVE_Tier4Desc>Tier 4 vehicles are not able to be constructed by the player, but they can still be found, purchased or otherwise spawned. They generally represent technology beyond of what's achievable in the Rimworld setting.</VVE_Tier4Desc>
+
+  <VVE_RestoreWreck>Відновити уламок</VVE_RestoreWreck>
+  <VVE_RestoreWreckDesc>Використати частини автомобіля, для того щоб відновити автомобіль з його уламків.</VVE_RestoreWreckDesc>
+  <VVE_WreckNotRestored>{0} ще не знайдений та не відновлений</VVE_WreckNotRestored>
+  <VVE_CannotBeResearched>{0} не може бути досліджено, поки ви не знайдете та не відновите його уламки.</VVE_CannotBeResearched>
+  <VVE_Reload>Reload {0} з {AMMO_label}</VVE_Reload>
+  <VVE_CannotReloadNotEnoughAmmo>Не може перезарядити {0} з {1} (немає {1})</VVE_CannotReloadNotEnoughAmmo>
+  <VVE_CannotReloadFullAmmo>Не може перезарядити {0} з {1} (повний)</VVE_CannotReloadFullAmmo>
+
+</LanguageData>

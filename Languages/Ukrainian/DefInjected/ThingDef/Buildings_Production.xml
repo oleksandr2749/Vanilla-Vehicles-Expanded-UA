@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_GarageBench.label>автомобільний верстак</VVE_GarageBench.label>
+  <VVE_GarageBench.description>Спеціалізована робоча станція для збирання деталей автомобіля. Іржаві автомобілі та двигуни можуть бути відновлені за будь-які робочі деталі.</VVE_GarageBench.description>
+  <VVE_GarageBench_Blueprint.label>автомобільна станція (blueprint)</VVE_GarageBench_Blueprint.label>
+  <VVE_GarageBench_Frame.label>garage bench (building)</VVE_GarageBench_Frame.label>
+  <VVE_GarageBench_Frame.description>A specialised work station for assembling vehicle parts. For those that are desperate, rusted cars and engine blocks can be salvaged for any remaining working parts.</VVE_GarageBench_Frame.description>
+
+
+</LanguageData>

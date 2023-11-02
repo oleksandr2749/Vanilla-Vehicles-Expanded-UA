@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_Tango.label>Tango</VVE_Tango.label>
+  <VVE_Tango.description>A general purpose armoured personnel carrier, the Tango is a slow but hardy troop transport. Ample cargo holds, hardened armour, all-terrain capability and a turret that can fire either mobile or stationary, the main downside is fuel consumption and slightly thinner plating on the rear.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, its high fuel consumption rate putting a limit on the effective range.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; права x1, Стрілець x1, Пасажир x4\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Tango.description>
+  <VVE_Tango.properties.0.label>Водій</VVE_Tango.properties.roles.0.label>
+  <VVE_Tango.properties.roles.1.label>Стрілець</VVE_Tango.properties.roles.1.label>
+  <VVE_Tango.properties.roles.2.label>Пасажир</VVE_Tango.properties.roles.2.label>
+  <VVE_Tango.components.0.label>Двигун</VVE_Tango.components.0.label>
+  <VVE_Tango.components.1.label>Ліва гусениця</VVE_Tango.components.1.label>
+  <VVE_Tango.components.2.label>Права гусениця</VVE_Tango.components.2.label>
+  <VVE_Tango.components.3.label>Передня ліва ведуча зірочка</VVE_Tango.components.3.label>
+  <VVE_Tango.components.4.label>Передня права ведуча зірочка</VVE_Tango.components.4.label>
+  <VVE_Tango.components.5.label>Задня ліва ведуча зірочка</VVE_Tango.components.5.label>
+  <VVE_Tango.components.6.label>Задня права ведуча зірочка</VVE_Tango.components.6.label>
+  <VVE_Tango.components.7.label>Коробка передач</VVE_Tango.components.7.label>
+  <VVE_Tango.components.8.label>Передня ліва бронеплита</VVE_Tango.components.8.label>
+  <VVE_Tango.components.9.label>Передня права бронеплита</VVE_Tango.components.9.label>
+  <VVE_Tango.components.10.label>Права бронеплита</VVE_Tango.components.10.label>
+  <VVE_Tango.components.11.label>Задня пронеплита</VVE_Tango.components.11.label>
+  <VVE_Tango.components.12.label>Паливний бак</VVE_Tango.components.12.label>
+  <VVE_Tango.components.13.label>Передня панель</VVE_Tango.components.13.label>
+  <VVE_Tango.components.14.label>Кермо</VVE_Tango.components.14.label>
+  <VVE_Tango.components.15.label>Автомобільний генератор</VVE_Tango.components.15.label>
+  <VVE_Tango.components.16.label>Дах</VVE_Tango.components.16.label>
+
+
+</LanguageData>

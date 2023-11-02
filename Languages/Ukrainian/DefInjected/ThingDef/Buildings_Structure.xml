@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_GarageDoor.label>гаражні ворота (1x4)</VVE_GarageDoor.label>
+  <VVE_GarageDoor.description>Divides rooms. Manual operation allows people to open it, letting vehicles through.</VVE_GarageDoor.description>
+  <VVE_GarageDoor_Blueprint.label>гаражні ворота (1x4) (blueprint)</VVE_GarageDoor_Blueprint.label>
+  <VVE_GarageDoor_Frame.label>garage door (1x4) (building)</VVE_GarageDoor_Frame.label>
+  <VVE_GarageDoor_Frame.description>Divides rooms. Manual operation allows people to open it, letting vehicles through.</VVE_GarageDoor_Frame.description>
+
+  <VVE_GarageDoorOpened.label>гаражні ворота (1x4)</VVE_GarageDoorOpened.label>
+  <VVE_GarageDoorOpened.description>Divides rooms. Manual operation allows people to open it, letting vehicles through.</VVE_GarageDoorOpened.description>
+
+  <VVE_GarageDoorLarge.label>гаражні ворота (1x5)</VVE_GarageDoorLarge.label>
+  <VVE_GarageDoorLarge.description>Divides rooms. Manual operation allows people to open it, letting vehicles through.</VVE_GarageDoorLarge.description>
+  <VVE_GarageDoorLarge_Blueprint.label>гаражні ворота (1x5) (blueprint)</VVE_GarageDoorLarge_Blueprint.label>
+  <VVE_GarageDoorLarge_Frame.label>garage door (1x5) (building)</VVE_GarageDoorLarge_Frame.label>
+  <VVE_GarageDoorLarge_Frame.description>Divides rooms. Manual operation allows people to open it, letting vehicles through.</VVE_GarageDoorLarge_Frame.description>
+
+  <VVE_GarageDoorLargeOpened.label>гаражні ворота (1x5)</VVE_GarageDoorLargeOpened.label>
+  <VVE_GarageDoorLargeOpened.description>Divides rooms. Manual operation allows people to open it, letting vehicles through.</VVE_GarageDoorLargeOpened.description>
+
+  <VVE_GarageAutoDoor.label>автоматичні гаражні ворота (1x4)</VVE_GarageAutoDoor.label>
+  <VVE_GarageAutoDoor.description>Divides rooms. Electric-powered operation allows the door to open without manual interaction, letting vehicles through.</VVE_GarageAutoDoor.description>
+  <VVE_GarageAutoDoor_Blueprint.label>автоматичні гаражні ворота (1x4) (blueprint)</VVE_GarageAutoDoor_Blueprint.label>
+  <VVE_GarageAutoDoor_Frame.label>auto garage door (1x4) (building)</VVE_GarageAutoDoor_Frame.label>
+  <VVE_GarageAutoDoor_Frame.description>Divides rooms. Electric-powered operation allows the door to open without manual interaction, letting vehicles through.</VVE_GarageAutoDoor_Frame.description>
+
+  <VVE_GarageAutoDoorOpened.label>автоматичні гаражні ворота  (1x4)</VVE_GarageAutoDoorOpened.label>
+  <VVE_GarageAutoDoorOpened.description>Divides rooms. Electric-powered operation allows the door to open without manual interaction, letting vehicles through.</VVE_GarageAutoDoorOpened.description>
+
+  <VVE_GarageAutoDoorLarge.label>автоматичні гаражні ворота (1x5)</VVE_GarageAutoDoorLarge.label>
+  <VVE_GarageAutoDoorLarge.description>Divides rooms. Electric-powered operation allows the door to open without manual interaction, letting vehicles through.</VVE_GarageAutoDoorLarge.description>
+  <VVE_GarageAutoDoorLarge_Blueprint.label>автоматичні гаражні ворота (1x5) (blueprint)</VVE_GarageAutoDoorLarge_Blueprint.label>
+  <VVE_GarageAutoDoorLarge_Frame.label>auto garage door (1x5) (building)</VVE_GarageAutoDoorLarge_Frame.label>
+  <VVE_GarageAutoDoorLarge_Frame.description>Divides rooms. Electric-powered operation allows the door to open without manual interaction, letting vehicles through.</VVE_GarageAutoDoorLarge_Frame.description>
+
+  <VVE_GarageAutoDoorLargeOpened.label>автоматичні гаражні ворота (1x5)</VVE_GarageAutoDoorLargeOpened.label>
+  <VVE_GarageAutoDoorLargeOpened.description>Divides rooms. Electric-powered operation allows the door to open without manual interaction, letting vehicles through.</VVE_GarageAutoDoorLargeOpened.description>
+
+
+</LanguageData>

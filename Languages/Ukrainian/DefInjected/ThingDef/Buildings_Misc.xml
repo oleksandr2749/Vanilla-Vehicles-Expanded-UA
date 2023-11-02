@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_GarageCabinet.label>гаражна шафа</VVE_GarageCabinet.label>
+  <VVE_GarageCabinet.description>Зручна шафа, яка містить цілу купу інструментів. Збільшує швидкість роботи, якщо розмістити її біля гаражного верстата. Один верстат може використовувати до двох гаражних шаф.</VVE_GarageCabinet.description>
+  <VVE_GarageCabinet_Blueprint.label>гаражна шафа (blueprint)</VVE_GarageCabinet_Blueprint.label>
+  <VVE_GarageCabinet_Blueprint_Install.label>гаражна шафа (blueprint)</VVE_GarageCabinet_Blueprint_Install.label>
+  <VVE_GarageCabinet_Frame.label>garage cabinet (building)</VVE_GarageCabinet_Frame.label>
+  <VVE_GarageCabinet_Frame.description>A handy cabinet that contains a whole bunch of extra tools of various sizes and functions. Increases work speed when placed near a garage bench. One bench can use up to two garage cabinets.</VVE_GarageCabinet_Frame.description>
+
+
+</LanguageData>

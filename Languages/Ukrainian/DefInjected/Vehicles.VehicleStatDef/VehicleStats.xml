@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AccelerationRate.label>Пришвидшення</AccelerationRate.label>
+  <AccelerationRate.description>Пришвидшення автомобіль, в клітинах на секунду. Вищий показник означає, що автомобіль швидше розганяється до максимума. Це також впливає на швидкість гальмування, яка вдвічі перевищує швидкість розгону.</AccelerationRate.description>
+  <AccelerationRate.formatString>{0}</AccelerationRate.formatString>
+
+
+</LanguageData>

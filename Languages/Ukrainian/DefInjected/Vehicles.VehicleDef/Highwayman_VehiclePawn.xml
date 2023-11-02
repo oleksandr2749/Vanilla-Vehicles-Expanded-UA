@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_Highwayman.label>Highwayman</VVE_Highwayman.label>
+  <VVE_Highwayman.description>A basic infantry fighting vehicle, the Highwayman is the cheapest weaponized option for transporting three people. Hardened against small-arms fire but very vulnerable at the rear, intended to provide mobile fire support for infantry and travel quickly along paved roads.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; права x1, Стрілець x1, Пасажир x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Highwayman.description>
+  <VVE_Highwayman.properties.0.label>Водій</VVE_Highwayman.properties.roles.0.label>
+  <VVE_Highwayman.properties.roles.1.label>Стрілець</VVE_Highwayman.properties.roles.1.label>
+  <VVE_Highwayman.properties.roles.2.label>Пасажир</VVE_Highwayman.properties.roles.2.label>
+  <VVE_Highwayman.components.0.label>Двигун</VVE_Highwayman.components.0.label>
+  <VVE_Highwayman.components.1.label>Переднє ліве колесо</VVE_Highwayman.components.1.label>
+  <VVE_Highwayman.components.2.label>Переднє праве колесо</VVE_Highwayman.components.2.label>
+  <VVE_Highwayman.components.3.label>Заднє ліве колесо</VVE_Highwayman.components.3.label>
+  <VVE_Highwayman.components.4.label>Заднє праве колесо</VVE_Highwayman.components.4.label>
+  <VVE_Highwayman.components.5.label>Передня ліва підвіска</VVE_Highwayman.components.5.label>
+  <VVE_Highwayman.components.6.label>Передня права підвіска</VVE_Highwayman.components.6.label>
+  <VVE_Highwayman.components.7.label>Задня ліва підвіска</VVE_Highwayman.components.7.label>
+  <VVE_Highwayman.components.8.label>Задня права підвіска</VVE_Highwayman.components.8.label>
+  <VVE_Highwayman.components.9.label>Коробка передач</VVE_Highwayman.components.9.label>
+  <VVE_Highwayman.components.10.label>Передня ліва бронеплита</VVE_Highwayman.components.10.label>
+  <VVE_Highwayman.components.11.label>Передня права бронеплита</VVE_Highwayman.components.11.label>
+  <VVE_Highwayman.components.12.label>Права бронеплита</VVE_Highwayman.components.12.label>
+  <VVE_Highwayman.components.13.label>Паливний бак</VVE_Highwayman.components.13.label>
+  <VVE_Highwayman.components.14.label>Передній бампер</VVE_Highwayman.components.14.label>
+  <VVE_Highwayman.components.15.label>Оббивка</VVE_Highwayman.components.15.label>
+  <VVE_Highwayman.components.16.label>Передня панель</VVE_Highwayman.components.16.label>
+  <VVE_Highwayman.components.17.label>Кермо</VVE_Highwayman.components.17.label>
+  <VVE_Highwayman.components.18.label>Автомобільний генератор</VVE_Highwayman.components.18.label>
+  <VVE_Highwayman.components.19.label>Дах</VVE_Highwayman.components.19.label>
+
+
+</LanguageData>

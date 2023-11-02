@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tango_MainTurret.label>автоматична гармата 20х120мм</Tango_MainTurret.label>
+  <Tango_MainTurret.description>A heavy automatic turret mounted on a Tango APC. Its large-caliber shells do heavy damage over significant ranges, but it’s inaccurate and uses up a lot of ammo.</Tango_MainTurret.description>
+  <Tango_MainTurret.fireModes.0.label>Single</Tango_MainTurret.fireModes.0.label>
+  <Tango_MainTurret.fireModes.1.label>Burst</Tango_MainTurret.fireModes.1.label>
+
+
+</LanguageData>

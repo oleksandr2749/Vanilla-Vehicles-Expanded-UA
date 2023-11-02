@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_DoBillsGarageBench.label>майструвати на автомобільному верстку</VVE_DoBillsGarageBench.label>
+  <VVE_DoBillsGarageBench.verb>майструвати</VVE_DoBillsGarageBench.verb>
+  <VVE_DoBillsGarageBench.gerund>майструвати на</VVE_DoBillsGarageBench.gerund>
+
+  <VVE_OpenGarages.label>відкрити гараж</VVE_OpenGarages.label>
+  <VVE_OpenGarages.verb>відкрити гараж</VVE_OpenGarages.verb>
+  <VVE_OpenGarages.gerund>opening garage</VVE_OpenGarages.gerund>
+
+  <VVE_CloseGarages.label>закрити гараж</VVE_CloseGarages.label>
+  <VVE_CloseGarages.verb>закрити гараж</VVE_CloseGarages.verb>
+  <VVE_CloseGarages.gerund>закриває гараж</VVE_CloseGarages.gerund>
+
+  <VVE_RestoreWreck.label>відновити уламок транспорта</VVE_RestoreWreck.label>
+  <VVE_RestoreWreck.verb>відновити</VVE_RestoreWreck.verb>
+  <VVE_RestoreWreck.gerund>відновлює</VVE_RestoreWreck.gerund>
+
+
+</LanguageData>

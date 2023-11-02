@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_Charley.label>Charley</VVE_Charley.label>
+  <VVE_Charley.description>A general motorcycle, the Charley is a very effective single-person vehicle with a small cargo capacity. Performs well on any road except during winter season or snowy terrain, or both, with an increased speed on the world map.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; права x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Charley.description>
+  <VVE_Charley.properties.roles.0.label>Водій</VVE_Charley.properties.roles.0.label>
+  <VVE_Charley.components.0.label>Переднє колесо</VVE_Charley.components.0.label>
+  <VVE_Charley.components.1.label>Заднє колесо</VVE_Charley.components.1.label>
+  <VVE_Charley.components.2.label>Двигун</VVE_Charley.components.2.label>
+  <VVE_Charley.components.3.label>Передня підвіска</VVE_Charley.components.3.label>
+  <VVE_Charley.components.4.label>Задня підвіска</VVE_Charley.components.4.label>
+
+
+</LanguageData>

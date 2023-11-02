@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bulldog_MainTurret.label>баштова гармата 75х350мм</Bulldog_MainTurret.label>
+  <Bulldog_MainTurret.description>A large, long range cannon capable of firing explosive shells over medium distance. Usually mounted on Bulldog tanks.</Bulldog_MainTurret.description>
+  <Bulldog_MainTurret.fireModes.0.label>Одиночний постріл</Bulldog_MainTurret.fireModes.0.label>
+
+
+</LanguageData>

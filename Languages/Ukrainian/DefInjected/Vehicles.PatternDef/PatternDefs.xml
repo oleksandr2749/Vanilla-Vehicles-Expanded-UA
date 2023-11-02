@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_Streaky.label>Тріщини</VVE_Streaky.label>
+  <VVE_8bit.label>Смуги</VVE_8bit.label>
+  <VVE_Blocky.label>Блоки</VVE_Blocky.label>
+  <VVE_CallOfDuty.label>Поклик обов'язку</VVE_CallOfDuty.label>
+  <VVE_Dots.label>Крапки</VVE_Dots.label>
+  <VVE_GeometricGrunge.label>Геометричний грандж</VVE_GeometricGrunge.label>
+  <VVE_Gloss.label>Глянець</VVE_Gloss.label>
+  <VVE_Grunge.label>Грандж</VVE_Grunge.label>
+  <VVE_Marble.label>Мармур</VVE_Marble.label>
+  <VVE_Painted.label>Фарба</VVE_Painted.label>
+  <VVE_Processor.label>Мікросхема</VVE_Processor.label>
+  <VVE_Reactive.label>Реактор</VVE_Reactive.label>
+  <VVE_Rocky.label>Дірки</VVE_Rocky.label>
+  <VVE_Savannah.label>Савана</VVE_Savannah.label>
+  <VVE_Shine.label>Сяйво</VVE_Shine.label>
+  <VVE_Smudges.label>Розмазня</VVE_Smudges.label>
+  <VVE_Splatter.label>Бризки</VVE_Splatter.label>
+  <VVE_Stamped.label>Потертість</VVE_Stamped.label>
+  <VVE_Vinyl.label>Вініл</VVE_Vinyl.label>
+  <VVE_Wildcat.label>Дика кішка</VVE_Wildcat.label>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_Bulldog.label>Bulldog</VVE_Bulldog.label>
+  <VVE_Bulldog.description>A general main battle tank, the Bulldog is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, which is still an improvement over the tier 1 tank.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; права x1, Стрілець x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Bulldog.description>
+  <VVE_Bulldog.properties.0.label>Водій</VVE_Bulldog.properties.roles.0.label>
+  <VVE_Bulldog.properties.roles.1.label>Стрілець</VVE_Bulldog.properties.roles.1.label>
+  <VVE_Bulldog.components.0.label>Двигун</VVE_Bulldog.components.0.label>
+  <VVE_Bulldog.components.1.label>Ліва гусениця</VVE_Bulldog.components.1.label>
+  <VVE_Bulldog.components.2.label>Права гусениця</VVE_Bulldog.components.2.label>
+  <VVE_Bulldog.components.3.label>Передня ліва ведуча зірочка</VVE_Bulldog.components.3.label>
+  <VVE_Bulldog.components.4.label>Передня права ведуча зірочка</VVE_Bulldog.components.4.label>
+  <VVE_Bulldog.components.5.label>Задня ліва ведуча зірочка</VVE_Bulldog.components.5.label>
+  <VVE_Bulldog.components.6.label>Задня права ведуча зірочка</VVE_Bulldog.components.6.label>
+  <VVE_Bulldog.components.7.label>Коробка передач</VVE_Bulldog.components.7.label>
+  <VVE_Bulldog.components.8.label>Передня бронеплита</VVE_Bulldog.components.8.label>
+  <VVE_Bulldog.components.9.label>Ліва бронеплита</VVE_Bulldog.components.9.label>
+  <VVE_Bulldog.components.10.label>Права бронеплита</VVE_Bulldog.components.10.label>
+  <VVE_Bulldog.components.11.label>Задня пронеплита</VVE_Bulldog.components.11.label>
+  <VVE_Bulldog.components.12.label>Паливний бак</VVE_Bulldog.components.12.label>
+  <VVE_Bulldog.components.13.label>Передня панель</VVE_Bulldog.components.13.label>
+  <VVE_Bulldog.components.14.label>Кермо</VVE_Bulldog.components.14.label>
+  <VVE_Bulldog.components.15.label>Автомобільний генератор</VVE_Bulldog.components.15.label>
+  <VVE_Bulldog.components.16.label>Дах</VVE_Bulldog.components.16.label>
+
+
+</LanguageData>
