@@ -2,12 +2,18 @@
 <ModMetaData>
   <name>Vanilla Vehicles Expanded Українською</name>
   <author>oleksandr</author>
+  <packageId>oleksandr.VanillaVehiclesExpandedUA</packageId>
+  <modVersion>1.1</modVersion>
   <supportedVersions>
     <li>1.4</li>
   </supportedVersions>
-  <packageId>oleksandr.VanillaVehiclesExpandedUA</packageId>
-  <description></description>
+  <modDependencies>
+	<li>
+	<packageId>OskarPotocki.VanillaVehiclesExpanded</packageId>
+	</li>
+  </modDependencies>
   <loadAfter>
     <li>OskarPotocki.VanillaVehiclesExpanded</li>
   </loadAfter>
+  <description></description>
 </ModMetaData>	

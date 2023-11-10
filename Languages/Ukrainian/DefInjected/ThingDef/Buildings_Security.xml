@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_TankTrap.label>протитанковий їжак</VVE_TankTrap.label>
+  <VVE_TankTrap.description>A defensive fortification for stopping vehicles. Provides small amount of cover and can be walked through on foot, but is not traversable by vehicles.</VVE_TankTrap.description>
+  <VVE_TankTrap_Blueprint.label>протитанковий їжак (креслення)</VVE_TankTrap_Blueprint.label>
+  <VVE_TankTrap_Frame.label>протитанковий їжак (будується)</VVE_TankTrap_Frame.label>
+  <VVE_TankTrap_Frame.description>A defensive fortification for stopping vehicles. Provides small amount of cover and can be walked through on foot, but is not traversable by vehicles.</VVE_TankTrap_Frame.description>
+
+
+</LanguageData>

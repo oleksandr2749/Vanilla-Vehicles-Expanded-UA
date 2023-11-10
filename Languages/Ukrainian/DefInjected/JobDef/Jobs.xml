@@ -3,7 +3,7 @@
 
   <VVE_OpenGarage.reportString>відкриває гараж.</VVE_OpenGarage.reportString>
   <VVE_CloseGarage.reportString>закриває гараж.</VVE_CloseGarage.reportString>
-  <VVE_RestoreWreck.reportString>restoring TargetA.</VVE_RestoreWreck.reportString>
+  <VVE_RestoreWreck.reportString>відновлює TargetA.</VVE_RestoreWreck.reportString>
 
 
 </LanguageData>

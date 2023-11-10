@@ -3,10 +3,15 @@
 
   <VVE_GarageCabinet.label>гаражна шафа</VVE_GarageCabinet.label>
   <VVE_GarageCabinet.description>Зручна шафа, яка містить цілу купу інструментів. Збільшує швидкість роботи, якщо розмістити її біля гаражного верстата. Один верстат може використовувати до двох гаражних шаф.</VVE_GarageCabinet.description>
-  <VVE_GarageCabinet_Blueprint.label>гаражна шафа (blueprint)</VVE_GarageCabinet_Blueprint.label>
+  <VVE_GarageCabinet_Blueprint.label>гаражна шафа (креслення)</VVE_GarageCabinet_Blueprint.label>
   <VVE_GarageCabinet_Blueprint_Install.label>гаражна шафа (blueprint)</VVE_GarageCabinet_Blueprint_Install.label>
-  <VVE_GarageCabinet_Frame.label>garage cabinet (building)</VVE_GarageCabinet_Frame.label>
+  <VVE_GarageCabinet_Frame.label>garage cabinet (будується)</VVE_GarageCabinet_Frame.label>
   <VVE_GarageCabinet_Frame.description>A handy cabinet that contains a whole bunch of extra tools of various sizes and functions. Increases work speed when placed near a garage bench. One bench can use up to two garage cabinets.</VVE_GarageCabinet_Frame.description>
 
-
+  <VVE_RefuelingPump.label>заправний насос</VVE_RefuelingPump.label>
+  <VVE_RefuelingPump.description>A refueling pump that will automatically refuel chemfuel-powered vehicles standing on the interaction spot. Needs to be filled with chemfuel.</VVE_RefuelingPump.description>
+  <VVE_RefuelingPump_Blueprint.label>заправний насос (креслення)</VVE_RefuelingPump_Blueprint.label>
+  <VVE_RefuelingPump_Blueprint_Install.label>refueling pump (blueprint)</VVE_RefuelingPump_Blueprint_Install.label>
+  <VVE_RefuelingPump_Frame.label>заправний насосp (будується)</VVE_RefuelingPump_Frame.label>
+  <VVE_RefuelingPump_Frame.description>A refueling pump that will automatically refuel chemfuel-powered vehicles standing on the interaction spot. Needs to be filled with chemfuel.</VVE_RefuelingPump_Frame.description>
 </LanguageData>
